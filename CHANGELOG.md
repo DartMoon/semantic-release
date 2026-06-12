@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/DartMoon/semantic-release/compare/v1.1.0...v1.1.1) (2026-06-12)
+
+
+### Bug Fixes
+
+* **test:** release token update ([3c2f64b](https://github.com/DartMoon/semantic-release/commit/3c2f64b8d006ef9476e938bc59400865f0bc54b2))
+
 # [1.1.0](https://github.com/DartMoon/semantic-release/compare/v1.0.0...v1.1.0) (2026-06-02)
 
 
